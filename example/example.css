@@ -1,0 +1,25 @@
+body{
+    background-color: #eeeeee;
+}
+.wrapper{
+    padding-top: 15%;
+    background-color: white;;
+    width:960px;
+    margin: 0 auto;
+    padding: 25px;
+}
+.sort{
+    position: relative;
+    margin-bottom: 15px;
+}
+ul{
+    margin: 0;
+    padding:  0 15px;
+    list-style: none;
+}
+li {
+    list-style: none;
+    padding: 0 0;
+    margin: 0;
+    line-height: 18px;
+}
